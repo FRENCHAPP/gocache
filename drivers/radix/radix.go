@@ -7,7 +7,7 @@ import (
 	"time"
 
 	goradix "github.com/armon/go-radix"
-	"github.com/bradberger/gocache/cache"
+	"github.com/rubanbydesign/gocache/cache"
 )
 
 var (

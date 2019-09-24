@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"github.com/bradberger/gocache/cache"
+	"github.com/rubanbydesign/gocache/cache"
 	"stathat.com/c/consistent"
 )
 

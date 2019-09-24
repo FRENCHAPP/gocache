@@ -5,7 +5,7 @@ package gocache
 import (
 	"time"
 
-	"github.com/bradberger/gocache/cache"
+	"github.com/rubanbydesign/gocache/cache"
 	gc "github.com/patrickmn/go-cache"
 )
 

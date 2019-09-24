@@ -3,8 +3,7 @@ package arc
 import (
 	"time"
 
-	"github.com/bradberger/gocache/cache"
-	"github.com/hashicorp/golang-lru"
+	"github.com/rubanbydesign/gocache/cache"
 )
 
 var (

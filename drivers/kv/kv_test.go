@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bradberger/gocache/cache"
-	"github.com/bradberger/gokv/codec"
-	dv "github.com/bradberger/gokv/drivers/diskv"
+	"github.com/rubanbydesign/gocache/cache"
+	"github.com/rubanbydesign/gokv/codec"
+	dv "github.com/rubanbydesign/gokv/drivers/diskv"
 	"github.com/peterbourgon/diskv"
 
 	"github.com/stretchr/testify/assert"

@@ -3,7 +3,7 @@ package gocache
 import (
 	"testing"
 
-	"github.com/bradberger/gocache/cache"
+	"github.com/rubanbydesign/gocache/cache"
 	"github.com/stretchr/testify/assert"
 )
 

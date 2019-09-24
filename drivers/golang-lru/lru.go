@@ -3,7 +3,7 @@ package lru
 import (
 	"time"
 
-	"github.com/bradberger/gocache/cache"
+	"github.com/rubanbydesign/gocache/cache"
 	"github.com/hashicorp/golang-lru"
 )
 

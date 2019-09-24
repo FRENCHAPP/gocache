@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bradberger/gocache/cache"
-	"github.com/bradberger/gocache/drivers/lru"
+	"github.com/rubanbydesign/gocache/cache"
+	"github.com/rubanbydesign/gocache/drivers/lru"
 	"github.com/stretchr/testify/assert"
 )
 

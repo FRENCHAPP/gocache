@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/bradberger/gocache/codec"
+	"github.com/rubanbydesign/gocache/codec"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/context"
 	"google.golang.org/appengine/aetest"

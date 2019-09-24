@@ -4,9 +4,9 @@ package memcache
 import (
 	"time"
 
-	"github.com/bradberger/gocache/cache"
-	"github.com/bradberger/gocache/codec"
 	"github.com/bradfitz/gomemcache/memcache"
+	"github.com/rubanbydesign/gocache/cache"
+	"github.com/rubanbydesign/gocache/codec"
 )
 
 var (

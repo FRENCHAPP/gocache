@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bradberger/gocache/cache"
+	"github.com/rubanbydesign/gocache/cache"
 )
 
 var (

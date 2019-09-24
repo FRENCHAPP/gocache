@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bradberger/gocache/cache"
-	"github.com/bradberger/gocache/codec"
 	"github.com/garyburd/redigo/redis"
+	"github.com/rubanbydesign/gocache/cache"
+	"github.com/rubanbydesign/gocache/codec"
 )
 
 var (

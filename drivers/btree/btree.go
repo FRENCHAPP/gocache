@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bradberger/gocache/cache"
+	"github.com/rubanbydesign/gocache/cache"
 	"github.com/google/btree"
 
 	"stathat.com/c/consistent"

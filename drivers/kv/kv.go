@@ -1,4 +1,4 @@
-// Package kv is a wrapper for permanent key/value drivers at github.com/bradberger/gokv
+// Package kv is a wrapper for permanent key/value drivers at github.com/rubanbydesign/gokv
 // This allows using permanent key/value datastores like BoltDB, DiskV, LevelDB, etc., for
 // persistent caching. Even though the underlying datastore is permanent, this driver
 // implements the expiration of keys.
@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bradberger/gocache/cache"
-	"github.com/bradberger/gokv/kv"
+	"github.com/rubanbydesign/gocache/cache"
+	"github.com/rubanbydesign/gokv/kv"
 )
 
 var (

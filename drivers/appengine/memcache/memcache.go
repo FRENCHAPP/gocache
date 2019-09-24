@@ -4,8 +4,8 @@ package memcache
 import (
 	"time"
 
-	"github.com/bradberger/gocache/cache"
-	"github.com/bradberger/gocache/codec"
+	"github.com/rubanbydesign/gocache/cache"
+	"github.com/rubanbydesign/gocache/codec"
 	"golang.org/x/net/context"
 	ae "google.golang.org/appengine/memcache"
 )

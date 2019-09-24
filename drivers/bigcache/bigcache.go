@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/allegro/bigcache"
-	"github.com/bradberger/gocache/cache"
-	"github.com/bradberger/gocache/codec"
+	"github.com/rubanbydesign/gocache/cache"
+	"github.com/rubanbydesign/gocache/codec"
 )
 
 var (
